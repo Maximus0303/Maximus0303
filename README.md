@@ -4,6 +4,7 @@
 **Maximus0303/Maximus0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning Unity
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you can't
 - 😄 Pronouns: Z/V
 - ⚡ Fun fact: Oranje Boven
--->
